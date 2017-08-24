@@ -1,0 +1,3 @@
+tidak perlu ada tabel master untuk formula di ba
+aplikasi realisasi hanya mengembangkan modul dengan php ci oracle
+untuk aplikasi ba client server or desktop performance udah ok, cuma tidak akurat, harusnya sangat akurat juga

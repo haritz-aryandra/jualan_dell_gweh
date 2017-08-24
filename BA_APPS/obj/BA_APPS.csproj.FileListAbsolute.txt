@@ -1,0 +1,13 @@
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\bin\Debug\BA_APPS.exe.config
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\ResolveAssemblyReference.cache
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.frmLogin.resources
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.frmSplash.resources
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.Properties.Resources.resources
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.csproj.GenerateResource.Cache
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\bin\Debug\BA_APPS.exe
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\bin\Debug\BA_APPS.pdb
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.exe
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.pdb
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\bin\Debug\Oracle.DataAccess.dll
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.frmMaster.resources
+D:\Data Project\project vendor migas\project Aplikasi Back Allocation(BA - Gw - or Haritz)\BA_APPS\BA_APPS\BA_APPS\obj\Debug\BA_APPS.frmLoginManagement.resources
